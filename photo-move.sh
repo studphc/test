@@ -30,7 +30,7 @@ VERSION="2.0.2"
 EXTENSIONS="" # e.g. "jpg,mts,mov"
 
 # Photo output folder corresponding to EXTENSIONS or one folder for all
-OUTPUT_FOLDER="/volume1/Photo/사진앨범" ##/volume1/photo/Date"
+OUTPUT_FOLDER="/volume1/Photo/test" ##/volume1/photo/Date"
 
 # Input directory where imported files can be found
 INPUT_FOLDER="/volume1/photo/공유할사진" ##/volume1/SDCopyFolder
